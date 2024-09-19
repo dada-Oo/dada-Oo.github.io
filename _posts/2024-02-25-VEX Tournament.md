@@ -1,17 +1,17 @@
 ---
-title: ME350 Project
-description: Self-designed transformable wheel car, highlighting in the whole car modeling, fully 3d printing, top-down design
+title: VEX Tournament
+description: Designed three robots, winning the VEX Asia Championship and qualifying for Worlds, while earning the Inspire Award.
 author: dada
-date: 2024-08-06 11:33:00 +0800
-categories: [Projects, Courses]
-tags: [ME, CS]
-pin: false
+date: 2024-02-25 14:30:00 +0800
+categories: [Projects, Extracurricular]
+tags: [ME]
+pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/img/preview.jpg
+  path: /assets/img/world1.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Car Preview
+  alt: Group Photo at the World Championship
 ---
 
 ![Project Image](/assets/img/car.jpg){: width="180" height="90" .right .rounded}
