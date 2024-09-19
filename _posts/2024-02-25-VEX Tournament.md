@@ -5,52 +5,65 @@ author: dada
 date: 2024-02-25 14:30:00 +0800
 categories: [Projects, Extracurricular]
 tags: [ME]
-pin: true
+pin: false
 math: true
 mermaid: true
 image:
   path: /assets/img/world1.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Group Photo at the World Championship
+  alt: Group Photo at the World Championship with Inspire Award
 ---
 
-![Project Image](/assets/img/car.jpg){: width="180" height="90" .right .rounded}
+## **Awards**
+- VEX Robotics World **Inspire Award**
+- VEX Robotics Asia **Match Championship**
+- VEX Robotics Asia **Skills Champion**
+- VEX Robotics Asia **Excellence Award**
 
-### **Project Overview**
+![Award Image](/assets/img/award.jpg){: .shadow .rounded-10}_VEX Robotics Asia Open Finals_
 
-><span style="font-size:21px">This team project focuses on designing a transformable wheel vehicle using a Geneva mechanism, where I'm responsible for CAD modeling and physical assembly. Also helps to improve the code.</span>
 
-## **Highlights**
 
-### **Top-Down Design**
+## **Robots**
 
-><span style="font-size:18px">The top-down design approach allows for dimension adjustments at any stage of the development process with only one step. Below is a GIF demonstration:</span>
-{: .prompt-tip }
+### **Asia Open Robots**
 
-![Top-Down Design](/assets/img/changeSize.gif)
+<span style="font-size:18px">These two vehicles helped us win the championship. It was my **first time** fully applying **top-down design** to model an entire vehicle. The frequent errors in SolidWorks gave me the chance to rethink and better understand the logic behind top-down design.
+</span>
 
-### **Whole Vehicle Modeling** and **All 3D Printed**
 
-<span style="font-size:18px">The vehicle was fully modeled using **Solidworks**, including the chassis and wheels, with all parts designed for seamless integration.  
+![Asia Robots](/assets/img/asiaRobots.jpg)_Aisa Robots_
 
-![Project Image](/assets/img/model.png)
+![Small Robot Blueprint](/assets/img/asiaSmall.png){: width="210" .right}
 
-><span style="font-size:18px">Through a deep understanding of **PLA** material properties, I optimized the design for 3D printing, creating a lightweight, hollow chassis that maintained strength while reducing weight and material use.
-{: .prompt-tip }
+#### Small-Robot
 
-## **Abilities**
+<span style="font-size:18px">This is the blueprint of the small vehicle, for which I was responsible for **designing the chassis**.
+</span>
 
-### Climbing Stairs
-<span style="font-size:18px">The car is equipped with a **transformable wheel** mechanism that allows it to adapt its wheel size and shape, enabling it to climb stairs. (No hand touch)
+![Big Robot Blueprint](/assets/img/asiaBig.jpg){: width="210" .left}
 
-![Climbing Stairs GIF](/assets/img/climbing_stairs.gif)
+#### Big-Robot
 
-### Traversing Sand Pits
-<span style="font-size:18px">With its flexible wheels and robust design, the car can easily traverse uneven terrains like sand pits.
+<span style="font-size:18px">Unfortunately, the blueprint for the large vehicle was lost. I was the **operator** of the large vehicle and also responsible for **designing** its main scoring mechanisms, including the **climbing system** and the **side-expanding wings**.
+</span>
 
-![Traversing Sand Pits GIF](/assets/img/traversing_sand.gif)
+#### Manufacturing Process
 
-### Color Recognition for Turning and Stopping
-<span style="font-size:18px">The car is equipped with a camera that **recognizes specific colors** (e.g., red and green). When the car detects a signal, it turns in the corresponding direction, and automatically stops in the parking slot.
+![Lathe](/assets/img/turning.jpg){: width="210"}_Turning_
+![Lathe](/assets/img/waterKnife.jpg){: width="210"}_Water Knife_
+![Lathe](/assets/img/sheetMetal.jpg){: width="210"}_Sheet Metal_
 
-![Color Recognition GIF](/assets/img/color_recognition.gif)
+### **World Championship Robots**
+
+<span style="font-size:18px">As it was my first time competing worldwide, my skill level wasn't high enough, and we ended up finishing in the **quarterfinals**.
+</span>
+
+![World Robots](/assets/img/worldRobots.jpg)_World Robots_
+
+#### Small-Robot
+
+![Small Robot Blueprint](/assets/img/worldSmall.png){: width="360" .right}
+
+<span style="font-size:18px">This small vehicle is the result of my exploration for a more optimized design after my first attempt. On the right is the full vehicle blueprint, and **apart from the intake, I designed the entire car**. I was also the **operator** for this vehicle. It features an impressive **12 motors**, which is remarkable considering most other vehicles only had 8. The increased speed meant a much **higher scoring potential**.
+</span>
